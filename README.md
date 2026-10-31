@@ -4,7 +4,7 @@ Proyek ini mengimplementasikan data pipeline lokal berbasis Python dan Pandas un
 
 ---
 
-## 1. Deskripsi & Sumber Dataset
+## 1. Deskripsi
 
 * **Deskripsi Dataset**: Dataset memuat informasi karakteristik teknis, spesifikasi mesin, dimensi fisik, konsumsi bahan bakar, dan harga dari berbagai model mobil. Data mencakup fitur numerik kontinu (seperti `price`, `horsepower`, `engine-size`), fitur diskrit, serta fitur kategorikal (seperti `make`, `body-style`, `fuel-system`).
 
