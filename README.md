@@ -7,8 +7,6 @@ Proyek ini mengimplementasikan data pipeline lokal berbasis Python dan Pandas un
 ## 1. Deskripsi & Sumber Dataset
 
 * **Deskripsi Dataset**: Dataset memuat informasi karakteristik teknis, spesifikasi mesin, dimensi fisik, konsumsi bahan bakar, dan harga dari berbagai model mobil. Data mencakup fitur numerik kontinu (seperti `price`, `horsepower`, `engine-size`), fitur diskrit, serta fitur kategorikal (seperti `make`, `body-style`, `fuel-system`).
-* **Sumber Dataset**: Diadaptasi dari repositori publik *Automobile Dataset (UCI Machine Learning Repository)* yang kemudian diinjeksi anomali kotor (*dirty training set*) oleh tim bootcamp untuk simulasi rekayasa data riil.
-* **Format File Mentah**: `data/raw/automobileEDA_dirty_training.csv` (CSV dengan pembatas koma).
 
 ---
 
